@@ -15,7 +15,7 @@
 
 - **Django Health Backend** · DRF + JWT + Uploads  
   User profile/feedback APIs, JWT auth, CI, Docker.  
-  👉 [Repo](https://github.com/cse330-fall-2024/performance-evaluation-performance-evaluation-529684-528650.git) · [API Docs](#)
+  👉 [Repo](https://github.com/cse330-fall-2024/creative-project-module7-529684-528650.git) · [API Docs](#)
 
 
 ## 🧠 Stack
