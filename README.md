@@ -1,7 +1,8 @@
 # Hi, I'm Yipeng Li 👋
 
-🎯 Backend / Full-stack (Python/Node) | iOS (Swift)  
-📍 St. Louis, MO | ✉️ yipeng.li666@gmail.com | 🔗 [LinkedIn](#) | 📄 [Resume](#)
+🎯 Backend / Full-stack (Python/Node) · iOS (Swift)  
+📍 St. Louis, MO · ✉️ [yipeng.li666@gmail.com](mailto:yipeng.li666@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) · 📄 [Resume](./Yipeng_Li_Resume_2025.pdf)
+
 
 ## 🔥 Featured Projects
 - **WashUFind** · iOS + Flask + MariaDB + AWS  
