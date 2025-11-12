@@ -9,9 +9,10 @@
   Event discovery with auth, image upload (S3), and admin tools.  
   👉 [Repo](https://github.com/wangyk55/cse438Final.git) · [Demo](#)
 
-- **WeChat App** · Mini Program + Cloud/Server (real users)  
+- **WeChat App** · WeChat Mini Program + (Cloud/Server)
   Messaging/feeds, user profiles, media upload；上线运营与增长实践。  
-  👉 [Repo](#) · [Live](#) · [Case Study](#)
+  👉 [Repo](https://github.com/Lazytodie11/WeChat) · [Live](#) · [Case Study](#)
+
 
 - **Django Health Backend** · DRF + JWT + Uploads  
   User profile/feedback APIs, JWT auth, CI, Docker.  
