@@ -10,7 +10,7 @@
   👉 [Repo](https://github.com/wangyk55/cse438Final.git) · [Demo](#)
 
 - **WeChat App** · WeChat Mini Program + (Cloud/Server)
-  Messaging/feeds, user profiles, media upload；上线运营与增长实践。  
+  Messaging/feeds, user profiles, media upload；
   👉 [Repo](https://github.com/Lazytodie11/WeChat) · [Live](#) · [Case Study](#)
 
 
