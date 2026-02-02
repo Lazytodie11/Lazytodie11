@@ -10,7 +10,7 @@
   👉 [Repo](https://github.com/wangyk55/cse438Final.git) · [Demo](#)
 
 - **WeChat App** · WeChat Mini Program + (Cloud/Server)
-  Messaging/feeds, user profiles, media upload；
+  Messaging/feeds, user profiles, media upload.
   👉 [Repo](https://github.com/Lazytodie11/WeChat) · [Live](#) · [Case Study](#)
 
 
@@ -26,5 +26,6 @@ Python(Flask/Django), Node.js(Express/Socket.IO), MySQL/MariaDB, AWS, Docker, Sw
 ## 🏆 Awards / Certificates
 
 - **Kaggle — Image Matching Challenge 2025 (Silver Medal)** · Ranked **44/943** teams  
-  📄 [View Certificate (PDF)](./Yipeng%20Li%20-%20Image%20Matching%20Challenge%202025.pdf)
+  📄 [View Certificate (PDF)](./kaggle-image-matching-2025-certificate.pdf)
+
 
