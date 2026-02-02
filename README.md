@@ -21,3 +21,10 @@
 
 ## 🧠 Stack
 Python(Flask/Django), Node.js(Express/Socket.IO), MySQL/MariaDB, AWS, Docker, Swift
+
+
+## 🏆 Awards / Certificates
+
+- **Kaggle — Image Matching Challenge 2025 (Silver Medal)** · Ranked **44/943** teams  
+  📄 [View Certificate (PDF)](./Yipeng%20Li%20-%20Image%20Matching%20Challenge%202025.pdf)
+
