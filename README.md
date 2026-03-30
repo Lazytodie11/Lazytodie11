@@ -15,7 +15,7 @@
     
 - **WashUFind** · iOS + Flask + MariaDB + AWS  
   Event discovery with auth, image upload (S3), and admin tools.  
-  👉 [Repo](https://github.com/wangyk55/cse438Final.git) · [Demo](#)
+👉 [Repo](https://github.com/wangyk55/cse438Final.git) · [2-min Demo (Loom)](https://www.loom.com/share/1f2b8cb2fa584960aa162f99f3a3178e)
 
 - **WeChat App** · WeChat Mini Program + (Cloud/Server)
   Messaging/feeds, user profiles, media upload.
