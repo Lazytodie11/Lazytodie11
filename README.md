@@ -5,6 +5,14 @@
 
 
 ## 🔥 Featured Projects
+
+- **AWS Serverless Web App** · API Gateway + Lambda + OpenSearch + React  
+  Serverless APIs and search system with a React UI.  
+  👉 [Repo](https://github.com/Lazytodie11/aws-serverless-web-app)  
+  👉 [Live Num2Words](https://s2y97oaed2.execute-api.us-east-2.amazonaws.com/prod/num2words?num=456)
+  👉 [Live Movie Search](https://s2y97oaed2.execute-api.us-east-2.amazonaws.com/prod/search?q=star)
+
+    
 - **WashUFind** · iOS + Flask + MariaDB + AWS  
   Event discovery with auth, image upload (S3), and admin tools.  
   👉 [Repo](https://github.com/wangyk55/cse438Final.git) · [Demo](#)
