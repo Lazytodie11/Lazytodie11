@@ -1,6 +1,7 @@
 # Hi, I'm Yipeng Li 👋
 
-🎯 Backend / Full-stack (Python/Node) · iOS (Swift)  
+🎯 Backend / Full-stack Engineer · Python (Django/Flask) · Node.js (Express) · AWS (Serverless) · iOS (Swift)
+
 📍 St. Louis, MO · ✉️ [yipeng.li666@gmail.com](mailto:yipeng.li666@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) · 📄 [Resume](./Yipeng_Li_Resume_2025.pdf)
 
 
@@ -22,8 +23,10 @@
 👉 [Repo](https://github.com/Lazytodie11/WeChat) · [Demo Video](https://www.loom.com/share/486d91bc5c7e419d85a6c095c7cf837e) · [Quick Start](https://github.com/Lazytodie11/WeChat#quick-start)
 
 
-## 🧠 Stack
-Python(Flask/Django), Node.js(Express/Socket.IO), MySQL/MariaDB, AWS, Docker, Swift
+
+## 🧠 Tech Stack
+Python (Django/Flask) · Node.js (Express/Socket.IO) · AWS (API Gateway/Lambda/DynamoDB/OpenSearch) · MySQL/MariaDB · Docker · Swift
+
 
 
 ## 🏆 Awards / Certificates
