@@ -22,11 +22,6 @@
 👉 [Repo](https://github.com/Lazytodie11/WeChat) · [Demo Video](https://www.loom.com/share/486d91bc5c7e419d85a6c095c7cf837e) · [Quick Start](https://github.com/Lazytodie11/WeChat#quick-start)
 
 
-- **Django Health Backend** · DRF + JWT + Uploads  
-  User profile/feedback APIs, JWT auth, CI, Docker.  
-  👉 [Repo](https://github.com/cse330-fall-2024/creative-project-module7-529684-528650.git) · [API Docs](#)
-
-
 ## 🧠 Stack
 Python(Flask/Django), Node.js(Express/Socket.IO), MySQL/MariaDB, AWS, Docker, Swift
 
