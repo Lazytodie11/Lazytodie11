@@ -17,10 +17,9 @@
   Event discovery with auth, image upload (S3), and admin tools.  
 👉 [Repo](https://github.com/wangyk55/cse438Final.git) · [2-min Demo (Loom)](https://www.loom.com/share/1f2b8cb2fa584960aa162f99f3a3178e)
 
-- **WeChat App** · WeChat Mini Program + (Cloud/Server)
-  Messaging/feeds, user profiles, media upload.
-  
-  👉 [Repo](https://github.com/Lazytodie11/WeChat) · [Live](#) · [Case Study](#)
+- **Dessert Showcase WeChat Mini Program** · WeChat Mini Program + Cloud Functions  
+  Browse desserts, add to local “Selected” list, submit an order form saved to DB + WeCom robot notification (no payments).
+👉 [Repo](https://github.com/Lazytodie11/WeChat) · [Demo Video](https://www.loom.com/share/486d91bc5c7e419d85a6c095c7cf837e) · [Quick Start](https://github.com/Lazytodie11/WeChat#quick-start)
 
 
 - **Django Health Backend** · DRF + JWT + Uploads  
