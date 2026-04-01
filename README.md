@@ -2,7 +2,7 @@
 
 🎯 Backend / Full-stack Engineer · Python (Django/Flask) · Node.js (Express) · AWS (Serverless) · iOS (Swift)
 
-📍 St. Louis, MO · ✉️ [yipeng.li666@gmail.com](mailto:yipeng.li666@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) · 📄 [Resume](./Yipeng_Li_Resume_2025.pdf)
+📍 St. Louis, MO · ✉️ [yipeng.li666@gmail.com](mailto:yipeng.li666@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) · 📄 [Resume](./Yipeng_Li_Resume.pdf)
 
 
 ## 🔥 Featured Projects
