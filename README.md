@@ -1,38 +1,44 @@
-# Hi, I'm Yipeng Li 👋
+# Yipeng Li
 
-🎯 Backend / Full-stack Engineer · Python (Django/Flask) · Node.js (Express) · AWS (Serverless) · iOS (Swift)
+Backend / Full-Stack Engineer · Java · Spring Boot · AI-powered applications · Scalable web systems
 
-📍 St. Louis, MO · ✉️ [yipeng.li666@gmail.com](mailto:yipeng.li666@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) · 📄 [Resume](./Yipeng_Li_Resume.pdf)
+St. Louis, MO · [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) · [Email](mailto:yipeng.li666@gmail.com) · [Resume](./Yipeng_Li_Resume.pdf)
 
+## Featured Projects
 
-## 🔥 Featured Projects
+### [JobCopilot](https://github.com/Lazytodie11/jobcopilot-ai-platform)
+AI-powered job application assistant with resume/JD analysis, RAG-based chat, and tailored content generation.
 
-- **AWS Serverless Web App** · API Gateway + Lambda + OpenSearch + React  
-  Serverless APIs and search system with a React UI.  
-  👉 [Repo](https://github.com/Lazytodie11/aws-serverless-web-app)  
-  👉 [Live Num2Words](https://s2y97oaed2.execute-api.us-east-2.amazonaws.com/prod/num2words?num=456)
-  👉 [Live Movie Search](https://s2y97oaed2.execute-api.us-east-2.amazonaws.com/prod/search?q=star)
+- **Live:** [Frontend](https://jobcopilot-frontend.vercel.app) · [Demo](https://www.loom.com/share/3ea576ea2ac34f3294e141e2b7703a0c)
+- **Tech:** Java 21, Spring Boot 3.5, PostgreSQL, pgvector, Spring AI, Kafka, React, Docker
+- **Highlights:** semantic retrieval, async embedding pipeline, JWT auth, Railway/Vercel deployment
 
-    
-- **WashUFind** · iOS + Flask + MariaDB + AWS  
-  Event discovery with auth, image upload (S3), and admin tools.  
-👉 [Repo](https://github.com/wangyk55/cse438Final.git) · [2-min Demo (Loom)](https://www.loom.com/share/1f2b8cb2fa584960aa162f99f3a3178e)
+### [AWS Serverless Web App](https://github.com/Lazytodie11/aws-serverless-web-app)
+Serverless application featuring a Num2Words API and a movie search workflow.
 
-- **Dessert Showcase WeChat Mini Program** · WeChat Mini Program + Cloud Functions  
-  Browse desserts, add to local “Selected” list, submit an order form saved to DB + WeCom robot notification (no payments).
-👉 [Repo](https://github.com/Lazytodie11/WeChat) · [Demo Video](https://www.loom.com/share/486d91bc5c7e419d85a6c095c7cf837e) · [Quick Start](https://github.com/Lazytodie11/WeChat#quick-start)
+- **Live:** [Num2Words](https://s2y97oaed2.execute-api.us-east-2.amazonaws.com/prod/num2words?num=456) · [Movie Search](https://s2y97oaed2.execute-api.us-east-2.amazonaws.com/prod/search?q=star)
+- **Tech:** AWS Lambda, API Gateway, DynamoDB, OpenSearch, React
 
+### [WashUFind](https://github.com/wangyk55/cse438Final.git)
+iOS event discovery app with authentication, image upload, and admin tools.
 
+- **Demo:** [Loom](https://www.loom.com/share/1f2b8cb2fa584960aa162f99f3a3178e)
+- **Tech:** Swift, Flask, MariaDB, AWS S3
 
-## 🧠 Tech Stack
-Python (Django/Flask) · Node.js (Express/Socket.IO) · AWS (API Gateway/Lambda/DynamoDB/OpenSearch) · MySQL/MariaDB · Docker · Swift
+### [Dessert Showcase WeChat Mini Program](https://github.com/Lazytodie11/WeChat)
+Mini program for dessert browsing, local cart selection, and order submission.
 
+- **Demo:** [Loom](https://www.loom.com/share/486d91bc5c7e419d85a6c095c7cf837e)
+- **Tech:** WeChat Mini Program, Cloud Functions
 
+## Technical Focus
 
-## 🏆 Awards / Certificates
+**Languages:** Java, Python, JavaScript, TypeScript, SQL, Swift, C++  
+**Backend:** Spring Boot, Spring Security, Spring AI, Django, Flask, Node.js, REST APIs, JWT  
+**Frontend:** React, Vite, Flutter  
+**Data / Infra:** PostgreSQL, pgvector, MySQL, MariaDB, Redis, DynamoDB, OpenSearch, Kafka, Docker, AWS
 
-- **Kaggle — Image Matching Challenge 2025 (Silver Medal)** · Ranked **44/943** teams  
-  📄 [View Certificate (PDF)](./Yipeng%20Li%20-%20kaggle-image-matching-2025-certificate.pdf)
+## Recognition
 
-
-
+- **Kaggle Image Matching Challenge 2025 — Silver Medal** (Top 5%, 44/943 teams)  
+  [Certificate](./Yipeng%20Li%20-%20kaggle-image-matching-2025-certificate.pdf)
