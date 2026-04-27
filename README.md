@@ -7,11 +7,11 @@ St. Louis, MO · [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) ·
 ## Featured Projects
 
 ### [JobCopilot](https://github.com/Lazytodie11/jobcopilot-ai-platform)
-AI-powered job application assistant with resume/JD analysis, RAG-based chat, and tailored content generation.
+AI-powered job application assistant with resume/JD analysis, RAG-based chat, Redis caching, and tailored content generation.
 
 - **Live:** [Frontend](https://jobcopilot-frontend.vercel.app) · [Demo](https://www.loom.com/share/3ea576ea2ac34f3294e141e2b7703a0c)
-- **Tech:** Java 21, Spring Boot 3.5, PostgreSQL, pgvector, Spring AI, Kafka, React, Docker
-- **Highlights:** semantic retrieval, async embedding pipeline, JWT auth, Railway/Vercel deployment
+- **Tech:** Java 21, Spring Boot 3.5, PostgreSQL, pgvector, Spring AI, Kafka, Redis, React, Docker
+- **Highlights:** semantic retrieval, async embedding pipeline, Redis match caching, JWT auth, Railway/Vercel deployment
 
 ### [AWS Serverless Web App](https://github.com/Lazytodie11/aws-serverless-web-app)
 Serverless application featuring a Num2Words API and a movie search workflow.
